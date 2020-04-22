@@ -10,7 +10,7 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 
-// Day su kien tawk.to từ API tawk.to thong qua GTM
+// Push event tawk.to from API tawk.to through GTM
 
 	var dataLayerPush = function(event){
                           dataLayer.push({
